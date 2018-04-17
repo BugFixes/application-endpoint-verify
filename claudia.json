@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "application-verify-executor",
+    "name": "application-verify",
+    "region": "eu-west-2"
+  }
+}
